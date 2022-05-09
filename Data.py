@@ -9,27 +9,27 @@ Welcome to {}
 
 You Can Use This Bot To Generate Pyrogram & Telethon String Session. Use Below Buttons To Operate !
 
-**Made With Love By @WarFade ❤️**
+**Made With Love By @Mr_Agora and @Agora_Robots ❤️**
     """
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("💫 Start Generating Session 💫", callback_data="generate")],
+        [InlineKeyboardButton("💫 START GENERATING AGORA SESSION 💫", callback_data="generate")],
         [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")]
     ]
 
     generate_button = [
-        [InlineKeyboardButton("💫 Start Generating Session 💫", callback_data="generate")]
+        [InlineKeyboardButton("💫 START GENERATING AGORA SESSION 💫", callback_data="generate")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("💫 Start Generating Session 💫", callback_data="generate")],
+        [InlineKeyboardButton("💫 START GENERATING AGORA SESSION 💫", callback_data="generate")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("About 🚀", callback_data="about")
         ],
-        [InlineKeyboardButton("❣️ Contact Owner ❣️", url="https://t.me/WarFade")],
+        [InlineKeyboardButton("❣️ Contact Owner ❣️", url="https://t.me/mr_agora")],
     ]
 
     # Help Message
@@ -49,13 +49,13 @@ You Can Use This Bot To Generate Pyrogram & Telethon String Session. Use Below B
 
 A Telegram Bot To Generate Pyrogram & Telethon String Sessions. 
 
-Made With ❤ By @WarFade
+Made With ❤ By @Mr_Agora and @Agora_Robots
 
-Sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : [Click Here](https://t.me/WarFade)
+Sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Agora_Robots)
 
-Fʀᴀᴍᴇᴡᴏʀᴋ : [Pyrogram](docs.pyrogram.org)
+Fʀᴀᴍᴇᴡᴏʀᴋ : [ᴘʏʀᴏɢʀᴀᴍ](docs.pyrogram.org)
 
-Lᴀɴɢᴜᴀɢᴇ : [Python](www.python.org)
+Lᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](www.python.org)
 
-Dᴇᴠᴇʟᴏᴘᴇʀ : @WarFade
+Dᴇᴠᴇʟᴏᴘᴇʀ : [ΛႺՕ𝖱Λ](https://t.me/mr_agora)
     """
