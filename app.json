@@ -1,7 +1,7 @@
 {
-  "name": "Pyrogram String Session Generator",
-  "description": "Telegram bot to generate pyrogram string session",
-  "logo": "https://telegra.ph/file/d66b376f2eaf746c7117e.jpg",
+  "name": "ΛႺՕ𝖱Λ ЅЅႺЕΝ ΒՕΤ   ",
+  "description": "Telegram bot to generate pyrogram and telethon string session",
+  "logo": "https://te.legra.ph/file/743570cee67092f5d03b7.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/WARFADE-BOSS/StringGeneratorBot",
+  "repository": "https://github.com/MR-KANNADIGA/AGORA-SSGENBOT",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -50,7 +50,7 @@
     "MUST_JOIN": {
       "description": "Add username/id Of A Channel/Group",
       "required": false,
-      "value": ""
+      "value": "@AGORA_ROBOTS"
     }
   }
 }
