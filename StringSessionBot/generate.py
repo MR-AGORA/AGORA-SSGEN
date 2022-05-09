@@ -110,20 +110,20 @@ async def generate_session(bot, msg, telethon=False):
     if telethon:
         string_session = client.session.save()
         try:
-            await client(JoinChannelRequest("@Official_K_LegendBot"))
+            await client(JoinChannelRequest("@Agora_Robots"))
             await client(LeaveChannelRequest("@Official_LegendBot"))
             await client(LeaveChannelRequest("@Legend_Userbot"))
         except BaseException:
             pass
     else:
         string_session = await client.export_session_string()
-    text = "**🔥 {} STRING SESSION 🔥** \n\n`{}` \n\n**⚜️ SUCCESSFULLY GENERATED STRING SESSION ⚜️** \n**⚠️ DON'T SHARE STRING SESSION WITH ANYONE ⚠️**".format("TELETHON" if telethon else "PYROGRAM", string_session)
+    text = "**🔥 ΛႺՕ𝖱Λ ЅЅႺЕΝ ΒՕΤ 🔥** \n\n`{}` \n\n**⚜️ SUCCESSFULLY GENERATED STRING SESSION ⚜️** \n**⚠️ DON'T SHARE STRING SESSION WITH ANYONE ⚠️**".format("TELETHON" if telethon else "PYROGRAM", string_session)
     try:
         await client.send_message("me", text)
     except KeyError:
         pass
     await client.disconnect()
-    await phone_code_msg.reply("Successfully Generated {} String Session. \n\nPlease Check Your Saved Messages😇".format("**TELETHON**" if telethon else "**PYROGRAM**"))
+    await phone_code_msg.reply("Successfully Generated {} AGORA SSGEN. \n\nPlease Check Your Saved Messages😇".format("**TELETHON**" if telethon else "**PYROGRAM**"))
 
 async def cancelled(msg):
     if "/cancel" in msg.text:
