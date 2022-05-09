@@ -33,4 +33,4 @@ if __name__ == "__main__":
     print(f"@{uname} Has Been Successfully Deployed 🥳")
     idle()
     app.stop()
-    print("Bot Band Ho Gaya 🤧")
+    print("Maa behan hogaya Bot ka🤧")
