@@ -15,7 +15,7 @@
 
 --------
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-AGORA/AGORA-SSGENBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-AGORA/AGORA-SSGEN)
 
 --------
 </details>
@@ -26,7 +26,7 @@
 
 1. Clone The Repo Using Command
 
-   `git clone https://github.com/WARFADE-BOSS/StringGeneratorBot`
+   `git clone https://github.com/MR-AGORA/AGORA-SSGEN`
    
 2. Edit `Config.py` & Fill The Required Variables
 
