@@ -2,7 +2,7 @@
 
 >[Generate Strings Easily From Here](https://telegram.me/AGORA-SSGENBOT)
 
-<p align="center"><a href="https://www.github.com/MR-KANNADIGA/AGORA-SSGENBOT"><img src="https://te.legra.ph/file/743570cee67092f5d03b7.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/MR-AGORA/AGORA-SSGENBOT"><img src="https://te.legra.ph/file/743570cee67092f5d03b7.jpg" width="2000"></a></p>
 
 <h6 align="center">
 <b>⭐ A Telegram Bot To Generate Pyrogram & Telethon String Session ⭐<b>
@@ -15,7 +15,7 @@
 
 --------
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-KANNADIGA/AGORA-SSGENBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-AGORA/AGORA-SSGENBOT)
 
 --------
 </details>
