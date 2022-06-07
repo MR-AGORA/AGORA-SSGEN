@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/MR-KANNADIGA/AGORA-SSGENBOT",
+  "repository": "https://github.com/MR-AGORA/AGORA-SSGENBOT",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
